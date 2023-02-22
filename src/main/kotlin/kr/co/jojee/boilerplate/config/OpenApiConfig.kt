@@ -1,4 +1,4 @@
-package kr.co.jojee.bolierplate.config
+package kr.co.jojee.boilerplate.config
 
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType
 import io.swagger.v3.oas.annotations.security.SecurityScheme

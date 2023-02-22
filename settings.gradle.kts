@@ -1,1 +1,1 @@
-rootProject.name = "bolierplate"
+rootProject.name = "boilerplate"

@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:file:~/data/bolierplate;NON_KEYWORDS=USER
+    url: jdbc:h2:file:~/data/boilerplate;NON_KEYWORDS=USER
   h2:
     console:
       enabled: true

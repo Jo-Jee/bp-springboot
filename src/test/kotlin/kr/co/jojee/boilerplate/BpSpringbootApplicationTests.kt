@@ -1,4 +1,4 @@
-package kr.co.jojee.bolierplate
+package kr.co.jojee.boilerplate
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
